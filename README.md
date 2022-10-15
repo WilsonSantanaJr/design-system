@@ -3,7 +3,7 @@ Projeto desenvolvido durante o Ignite lab 03
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar](https://wilsonsantanajr.github.io/contabilidade/)
+[Clique aqui para acessar](https://wilsonsantanajr.github.io/design-system/)
 
 ## Feito Com
 Abaixo segue o que foi utilizado na criação deste projeto:
